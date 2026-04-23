@@ -1,14 +1,12 @@
-# JoseAlbertoMartinezMorales
-
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/main/banner.png" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/banner.png" width="100%" alt="Banner">
 </p>
 
 <h1 align="center">Hi, I'm José Alberto Martinez Morales 👋</h1>
 
 <p align="center">
-  <b>Master of Data Analytics Student | Data Scientist | Machine Learning Enthusiast</b>
+  <b>Master of Data Analytics Student • Data Scientist • Machine Learning Enthusiast</b>
 </p>
 
 ---
@@ -19,7 +17,7 @@ My interests include **computer vision**, **predictive modeling**, and **algorit
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -69,6 +67,22 @@ A collection of reproducible notebooks demonstrating ML workflows.
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10" />
+</p>
+
+---
+
+## 👀 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
+</p>
+
+---
+
 ## 📫 Contact
 
 - **Email:** jose.martinez2389@myunfc.ca  
@@ -77,4 +91,3 @@ A collection of reproducible notebooks demonstrating ML workflows.
 ---
 
 ## ⭐ If you like my work, feel free to star my repositories!
-
