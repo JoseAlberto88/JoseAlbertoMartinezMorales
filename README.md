@@ -1,6 +1,5 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/banner.png" width="100%" alt="Banner">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/Dark%20ML%20banner.png" alt="José Alberto Martinez Morales Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm José Alberto Martinez Morales 👋</h1>
